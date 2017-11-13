@@ -1,6 +1,6 @@
 {
-  "name": "bitcore-lib",
-  "main": "./bitcore-lib.min.js",
+  "name": "bitcore-lib-sparkle",
+  "main": "./bitcore-lib-sparkle.min.js",
   "version": "0.13.19",
   "homepage": "http://bitcore.io",
   "authors": [
